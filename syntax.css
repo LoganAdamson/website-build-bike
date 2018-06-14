@@ -1,0 +1,54 @@
+/*
+* SAMPLE BIKE WEBSITE
+* LOGAN A.
+*/
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    background: floralwhite;
+}
+
+#wrapper{
+    width: 980px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+#main-navigation{
+    background: #262626;
+    padding: 10px;
+}
+
+#main-navigation ul{
+    text-align: right;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+#main-navigation li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#main-navigation a{
+    color: floralwhite;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 6px;
+}
+
+#main-navigation a.current{
+    background: #8f746c;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
